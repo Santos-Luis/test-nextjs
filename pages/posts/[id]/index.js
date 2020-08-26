@@ -8,6 +8,7 @@ const Post = () => {
 
   return (
     <>
+      <p>ABC</p>
       <Header />
       <h1>Post: {id}</h1>
       <ul>
